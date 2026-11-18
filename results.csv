@@ -1,0 +1,23 @@
+id,date,course,days,reason,recommendation,summary
+REQ001,2026-11-01,CS101,2,medical,within_policy,"Requests 2 days for CS101 lab report, medical reason"
+REQ002,2026-11-01,CS101,3,technical,within_policy,"Requests 3-day extension for CS101 programming assignment, technical reason"
+REQ003,2026-11-02,MA102,2,family,within_policy,"Requests 2 days for MA102 homework, family emergency"
+REQ004,2026-11-02,PH103,4,medical,needs_faculty_review,"Requests 4‑day extension for PH103 problem set, medical reason"
+REQ005,2026-11-03,MA102,10,medical,needs_faculty_review,"Requests 10 days extension for MA102 problem set, medical reason"
+REQ006,2026-11-03,CS101,3,event,needs_faculty_review,Requests 3 days for CS101 due to event participation
+REQ007,2026-11-04,EE104,2,workload,needs_faculty_review,Requests 2 days extension for EE104 due to workload
+REQ008,2026-11-04,,2,other,needs_more_info,"Requests 2-day extension for assignment, personal reasons"
+REQ009,2026-11-05,,2,medical,needs_more_info,"Requests 2-day extension for assignment, medical reason"
+REQ010,2026-11-05,CS105,,medical,needs_more_info,"Requests extension for CS105 assignment, medical reason"
+REQ011,2026-11-06,,,other,needs_more_info,Safe fallback: AI extraction failed validation
+REQ012,2026-11-06,CS101,,technical,needs_more_info,"Requests extension for CS101, technical reason, no specific day count"
+REQ013,2026-11-07,PH103,5,family,needs_faculty_review,"Requests 5 days for PH103 tutorial, family emergency"
+REQ014,2026-11-07,MA102,2,other,needs_faculty_review,"Requests 2 days extension for MA102, reason unspecified"
+REQ015,2026-11-08,,,other,needs_more_info,Requests extension without specified course or days
+REQ016,2026-11-08,CS101,2,medical,within_policy,"Requests 2 days extension for CS101 assignment 2, medical reason"
+REQ017,2026-11-09,EE104,3,technical,within_policy,"Requests 3 days for EE104 lab assignment, technical reason"
+REQ018,2026-11-09,CS105,1,family,within_policy,"Requests 1 day for CS105, family reason"
+REQ019,2026-11-10,PH103,,medical,needs_more_info,"Requests 35 days for PH103, medical reason"
+REQ020,2026-11-10,,,other,needs_more_info,Safe fallback: AI extraction failed validation
+REQ021,2026-11-11,MA102,1,technical,within_policy,"Requests 1 day for MA102 assignment 4, technical reason"
+REQ022,2026-11-11,CS101,2,other,needs_faculty_review,Requests 2 days extension for CS101

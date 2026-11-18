@@ -1,0 +1,35 @@
+============================================================
+      EXTENSION REQUEST SORTER — PROCESSING SUMMARY
+============================================================
+
+Total Requests Processed: 22
+
+----------------------------------------
+Recommendations Breakdown:
+----------------------------------------
+  - needs_faculty_review     : 7
+  - needs_more_info          : 8
+  - within_policy            : 7
+
+----------------------------------------
+Reasons Breakdown:
+----------------------------------------
+  - event                    : 1
+  - family                   : 3
+  - medical                  : 7
+  - other                    : 6
+  - technical                : 4
+  - workload                 : 1
+
+----------------------------------------
+Courses Breakdown:
+----------------------------------------
+  - CS101                    : 6
+  - CS105                    : 2
+  - EE104                    : 2
+  - MA102                    : 4
+  - PH103                    : 3
+  - Unspecified              : 5
+
+============================================================
+Note: This summary is de-identified and safe for public or administrative distribution.
